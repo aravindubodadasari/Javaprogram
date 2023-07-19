@@ -6,6 +6,6 @@ public class Demo {
 		int a=10;
 		int b=20;
 		int sum = a+b;
-		System.out.pritln("Sum of two number is "+sum);
+		System.out.println("Sum of two number is "+sum);
 	}
 }
