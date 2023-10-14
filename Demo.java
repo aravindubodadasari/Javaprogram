@@ -1,7 +1,5 @@
-import java.util.*;
 public class Demo {
 	public static void main(String args[]) {
-		System.out.println("Welcome to bootcamp java batch");
-		System.out.println("Welcome once again we are learning CI and CD tool");
+		System.out.println("Today we are learning Jenkin CI and CD tools");
 	}
 }
