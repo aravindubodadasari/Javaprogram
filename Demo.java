@@ -1,7 +1,6 @@
 public class Demo {
     public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.println("Demo.main() running in thread: " + Thread.currentThread().getName());  
+    System.out.println("Today we are learning Jenkin with Trigger options");
     }
     
 }
